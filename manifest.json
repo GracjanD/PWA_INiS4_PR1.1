@@ -1,0 +1,17 @@
+{
+    "name": "Przewodnik po Malborku",
+    "short_name": "Malbork APP",
+    "theme_color": "#87c228",
+    "background_color": "#87c228",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/PWA_INiS4_PR1.1/index.html",
+    "icons": [
+        {
+            "src": "./img/10466154.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+  }
